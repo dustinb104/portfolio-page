@@ -61,3 +61,7 @@
 .car-bord{
     border: solid black 4px;
 }
+
+.car-center{
+    margin: auto;
+}
